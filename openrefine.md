@@ -1,7 +1,7 @@
 ---
-  title: Open Refine
-  layout: default
-  nav_order: 3
-  ---
+layout: page
+title: Open Refine
+permalink: /open-refine
+---
 
 this is a new page
